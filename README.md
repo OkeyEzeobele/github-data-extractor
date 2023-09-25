@@ -40,7 +40,7 @@ This application fetches data from GitHub, processes it, and generates CSV files
 Run the application:
 
 ```bash
-node index.js
+npm start
 ```
 
 After execution, you'll find three generated CSV files:
