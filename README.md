@@ -42,6 +42,11 @@ Run the application:
 ```bash
 npm start
 ```
+Alternatively,run the simplified version:
+
+```bash
+node simplified.js
+```
 
 After execution, you'll find three generated CSV files:
 
